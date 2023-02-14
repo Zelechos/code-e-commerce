@@ -1,3 +1,3 @@
 import os
 
-os.system("echo ls")
+os.system("echo")
